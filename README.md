@@ -9,16 +9,16 @@
 Плейлисты открытых потоков федеральных и региональных телеканалов, вещающих на серверах Ростелекома. В плейлистах настроен архив для всех потоков, для большинства телеканалов настроено ЕПГ и логотип. 
 
 Плейлист `zabava.m3u` содержит потоки только с главного сервера и временной зоны +3 (Москва).  
-Ссылка для IPTV плеера: https://raw.githubusercontent.com/konnnn/iptv/refs/heads/main/zabava.m3u  
+Ссылка для IPTV плеера: https://raw.githubusercontent.com/konnnn/iptv/refs/heads/main/zabava/zabava.m3u  
 
 Плейлист `zabava-ef.m3u` содержит потоки только с главного сервера.  
-Ссылка для IPTV плеера: https://raw.githubusercontent.com/konnnn/iptv/refs/heads/main/zabava-ef.m3u  
+Ссылка для IPTV плеера: https://raw.githubusercontent.com/konnnn/iptv/refs/heads/main/zabava/zabava-ef.m3u  
 
 Плейлист `zabava-full.m3u` содержит потоки со всех серверов, потоки каждого сервера распределены в отдельную категорию с названием региона сервера.  
-Ссылка для IPTV плеера: https://raw.githubusercontent.com/konnnn/iptv/refs/heads/main/zabava-full.m3u  
+Ссылка для IPTV плеера: https://raw.githubusercontent.com/konnnn/iptv/refs/heads/main/zabava/zabava-full.m3u  
 
 Плейлист `zabava-reg.m3u` содержит потоки с главного сервера, а так же региональные телеканалы без региональных версий федеральных теканалов.  
-Ссылка для IPTV плеера: https://raw.githubusercontent.com/konnnn/iptv/refs/heads/main/zabava-reg.m3u  
+Ссылка для IPTV плеера: https://raw.githubusercontent.com/konnnn/iptv/refs/heads/main/zabava/zabava-reg.m3u  
 
 ---
 
